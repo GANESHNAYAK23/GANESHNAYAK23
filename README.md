@@ -1,4 +1,4 @@
-
+![logo](https://github.com/GANESHNAYAK23/GANESHNAYAK23/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Ganesh Nayak</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" />
